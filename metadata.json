@@ -1,0 +1,6 @@
+{
+  "name": "NIRAM Organic Pads",
+  "description": "Premium organic cotton anion sanitary pads, disposable period panties, and baby diapers designed for rash-free comfort and advanced protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
